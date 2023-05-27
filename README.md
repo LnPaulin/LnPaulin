@@ -4,6 +4,12 @@
 
 - <b>Local Lab environtment</b>
   - [Virtualisation environment](https://github.com/LnPaulin/Cybersecurity_lab)
+- <b>Python for Cybersecurity</b>
+  - [Hands-On SEIM Tools experience](https://github.com/LnPaulin/LnPaulin)
+- <b>Cybersecurity Reports</b>
+  - [Experience writting reports](https://github.com/LnPaulin/LnPaulin)
+- <b>Python for Cybersecurity</b>
+  - [Hands-On Lab experience](https://github.com/LnPaulin/LnPaulin)
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
