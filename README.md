@@ -6,6 +6,7 @@
   - [Strong password generator with Python/Django](https://github.com/LnPaulin/password_gen)
 - <b>Blog</b>
   - [Blog for past questions for hight school students](https://github.com/LnPaulin/Mygcebank) <b><i>(Hosted on Oracle cloud, <a href="mygcebank.com">mygcebank.com<a/>)</b></i>
+ <h2>👨‍💻 Industry Certifications</h2>
 
 
 - 🔭 I’m currently working on eJPT and Security+ Certification
