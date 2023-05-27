@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity Professional</a>, <a target="_blank" href="https://www.youtube.com/@gitcotech819">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🔐💻 Cybersecurity Projects:</h2>
 
 - <b>Local Lab environtment</b>
   - [Virtualisation environment](https://github.com/LnPaulin/Cybersecurity_lab)
@@ -18,7 +18,7 @@
 - <b>Blog</b>
   - [Blog for past questions for hight school students](https://github.com/LnPaulin/Mygcebank) <b>(Hosted on Oracle cloud, <a href="mygcebank.com">mygcebank.com<a/>)</b>
   
- <h2>👨‍💻 Industry Certifications:</h2>
+ <h2>📄Industry Certifications:</h2>
 
 - <b>Google Cybersecurity</b>
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/0b86d34d-41ed-4a43-a3fb-c8da8663a033/public_url)
