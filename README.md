@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Local Lab environtment</b>
-  - [Virtualisation environment](https://github.com/LnPaulin/password_gen)
+  - [Virtualisation environment](https://github.com/LnPaulin/Cybersecurity_lab)
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
