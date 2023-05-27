@@ -5,7 +5,7 @@
 - <b>Password Generator</b>
   - [Strong password generator with Python/Django](https://github.com/LnPaulin/password_gen)
 - <b>Blog</b>
-  - [Blog for past questions for hight school students](https://github.com/LnPaulin/Mygcebank) <b><i>(Hosted on Oracle cloud, <a href="mygcebank.com">)</b></i>
+  - [Blog for past questions for hight school students](https://github.com/LnPaulin/Mygcebank) <b><i>(Hosted on Oracle cloud, <a href="mygcebank.com">mygcebank.com<a/>)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
