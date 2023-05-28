@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity Professional</a>, <a target="_blank" href="https://www.youtube.com/@gitcotech819">YouTuber</a></h1>
+<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity Professional</a>
 
 <h2>🔐💻 Cybersecurity Projects:</h2>
 
