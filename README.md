@@ -2,26 +2,28 @@
 
 <h2>🔐💻 Cybersecurity Projects:</h2>
 
-- <b>Reports</b>
-
+- <b>Cybersecurity Reports</b>
   - [Risk Assessment Report writing experience](https://github.com/LnPaulin/Reports)
 - <b>Local Lab environtment</b>
   - [Virtualisation environment](https://github.com/LnPaulin/Cybersecurity_lab)
-- <b>Python for Cybersecurity</b>
-  - [Hands-On SEIM Tools experience](https://github.com/LnPaulin/LnPaulin)
-- <b>Cybersecurity Reports</b>
-  - [Experience writting reports](https://github.com/LnPaulin/LnPaulin)
-- <b>Python for Cybersecurity</b>
-  - [Hands-On Lab experience](https://github.com/LnPaulin/LnPaulin)
-
-<h2>👨‍💻 Web Development Projects:</h2>
+  
+  <h2>🤖💻 Programming:</h2>
+ - <b>Python</b>
+ - <b>SQL</b>
+ - <b>HTML</b>
+ - <b>CSS</b>
+ - <b>JavaScript</b>
+  
+<h2>⚙️💻 SEIM Tools:</h2>
+  
+<h2>👨‍💻💻 Web Development Projects:</h2>
 
 - <b>Password Generator</b>
   - [Strong password generator with Python/Django](https://github.com/LnPaulin/password_gen)
 - <b>Blog</b>
   - [Blog for past questions for hight school students](https://github.com/LnPaulin/Mygcebank) <b>(Hosted on Oracle cloud, <a href="mygcebank.com">mygcebank.com<a/>)</b>
   
- <h2>📄Industry Certifications:</h2>
+ <h2>📄💻Industry Certifications:</h2>
 
 - <b>Google Cybersecurity</b>
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/0b86d34d-41ed-4a43-a3fb-c8da8663a033/public_url)
