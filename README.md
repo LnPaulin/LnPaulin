@@ -3,7 +3,7 @@
 <h2>🔐💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Reports</b>
-  - [Risk Assessment Report writing experience](https://github.com/LnPaulin/Reports)
+  - [Risk Assessment, Incident handling, Control accessment, IT Audit  Report writing experience](https://github.com/LnPaulin/Reports)
 - <b>Local Lab environtment</b>
   - [Virtualisation environment](https://github.com/LnPaulin/Cybersecurity_lab)
   
