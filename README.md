@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity Professional</a>
+<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & IT Professional</a>
 
 <h2>🔐💻 Cybersecurity Projects:</h2>
 
@@ -15,6 +15,10 @@
  - <b>JavaScript</b>
   
 <h2>⚙️💻 SEIM Tools:</h2>
+ 
+<h2>☁️💻 Cloud Computing Projects:</h2>
+
+<h2>📒💻 Active Dirrectory Projects:</h2>
   
 <h2>👨‍💻💻 Web Development Projects:</h2>
 
