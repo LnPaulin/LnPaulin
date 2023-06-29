@@ -3,7 +3,7 @@
 
 <h2>🔐💻 Cybersecurity/IT Projects:</h2>
 
-- <b>[Creating a Live Honeynet in Azure](https://github.com/LnPaulin/Honeypot)</b>
+- <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
 
 <h2>👨‍💻💻 Web Development Projects:</h2>
 
