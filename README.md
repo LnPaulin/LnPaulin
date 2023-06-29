@@ -1,6 +1,11 @@
 <h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & IT Specialist</a>, Welcome to my showcase
 
-  
+
+<h2>🔐💻 Cybersecurity/IT Projects:</h2>
+
+- <b>Cybersecurity Reports</b>
+  - [Creating a Live Honeynet in Azure](https://github.com/LnPaulin/HoneyNet)
+
 <h2>👨‍💻💻 Web Development Projects:</h2>
 
 - <b>Password Generator</b>
