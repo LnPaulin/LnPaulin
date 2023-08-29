@@ -9,7 +9,7 @@
 
 - <b>[Strong password generator with Python/Django](https://github.com/LnPaulin/password_gen)</b>
 
-- <b>[Python/Django Blog](https://github.com/LnPaulin/Mygcebank) <b>(Hosted on Oracle cloud, mygcebank.com)</b></b>
+- <b>[Python/Django Blog](https://github.com/LnPaulin/Mygcebank) 
 
   
 <h2>📄💻Industry Certifications:</h2>
