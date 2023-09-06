@@ -3,6 +3,7 @@
 
 <h2>🔐💻 Cybersecurity/IT Projects:</h2>
 
+- <b>[Creating a Webserver on Oracle Cloud and deploying a website](https://github.com/LnPaulin/OCI_WS)</b>
 - <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
 
 <h2>👨‍💻💻 Web Development Projects:</h2>
