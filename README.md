@@ -15,6 +15,8 @@
   
 <h2>📄💻Industry Certifications:</h2>
 
+- <b>AWS</b>
+  - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/ffe2ab3e-bb54-4e2e-86e7-e46d2128ce5a/public_url)
 - <b>CompTIA</b>
   - [CompTIA Security+](https://www.credly.com/badges/814a529f-35a0-451a-b9bb-ec27fd94bf7d/public_url)
 - <b>Google</b>
