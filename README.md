@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & IT Specialist</a>, Welcome to my showcase
+<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity, Cloud & IT Specialist</a>, Welcome to my showcase
 
 
 <h2>🔐💻 Cybersecurity/IT Projects:</h2>
