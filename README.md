@@ -4,7 +4,9 @@
 <h2>🔐💻 Cybersecurity/Cloud/IT Projects:</h2>
 
 - <b>[Creating a Webserver on Oracle Cloud and deploying a website](https://github.com/LnPaulin/OCI_WS)</b>
+
 - <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
+
 - <b>[Implementing Load Balancing on a Google Cloud Compute Instance](https://youtu.be/mTWk9_nRjzg?si=yBzvzNnYerfgOVAn)</b>
 
 <h2>👨‍💻💻 Web Development Projects:</h2>
@@ -12,6 +14,7 @@
 - <b>[Strong password generator with Python/Django](https://github.com/LnPaulin/password_gen)</b>
 
 - <b>[Python/Django Blog](https://github.com/LnPaulin/Mygcebank)
+
 - <b>[My Personal Portfolio Website](https://tchio.gitcotech.net) 
 
   
