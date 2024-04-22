@@ -5,6 +5,8 @@
 
 - <b>[Creating a Webserver on Oracle Cloud and deploying a website](https://github.com/LnPaulin/OCI_WS)</b>
 
+- <b>[AWS Cloud Quest Walkthrough](https://youtu.be/PfDOS1kEuMU?si=XEtRNMScrNWWP0De)</b>
+
 - <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
 
 - <b>[Implementing Load Balancing on a Google Cloud Compute Instance](https://youtu.be/mTWk9_nRjzg?si=yBzvzNnYerfgOVAn)</b>
