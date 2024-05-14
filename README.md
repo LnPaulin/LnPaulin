@@ -3,7 +3,7 @@
 
 <h2>🔐💻 Cybersecurity/Cloud/IT Projects:</h2>
 
-- <b>[Deploying a Django Project on AWS with AppRunner]([https://github.com/LnPaulin/OCI_WS](https://medium.com/@tchiofonkwa/deploying-a-django-project-on-aws-with-app-runner-and-a-ci-cd-pipeline-174bec24132f)</b>
+- <b>[Deploying a Django Project on AWS with AppRunner](https://medium.com/@tchiofonkwa/deploying-a-django-project-on-aws-with-app-runner-and-a-ci-cd-pipeline-174bec24132f)</b>
 
 - <b>[Creating a Webserver on Oracle Cloud and deploying a website](https://github.com/LnPaulin/OCI_WS)</b>
 
