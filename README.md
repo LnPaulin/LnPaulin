@@ -1,7 +1,7 @@
-<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & Cloud</a>, Welcome to my showcase
+<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & Cloud Enthusiast </a>, Welcome to my showcase
 
 
-<h2>🔐💻 Cybersecurity/Cloud/IT Projects:</h2>
+<h2>🔐💻 Cybersecurity/Cloud:</h2>
 
 - <b>[EDR-Home-Lab-Attack-and-Defense](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
 
