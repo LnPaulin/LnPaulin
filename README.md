@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity, Cloud & IT Specialist</a>, Welcome to my showcase
+<h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Cybersecurity & Cloud</a>, Welcome to my showcase
 
 
 <h2>🔐💻 Cybersecurity/Cloud/IT Projects:</h2>
@@ -8,6 +8,8 @@
 - <b>[Creating a Webserver on Oracle Cloud and deploying a website](https://github.com/LnPaulin/OCI_WS)</b>
 
 - <b>[AWS Cloud Quest Walkthrough](https://youtu.be/PfDOS1kEuMU?si=XEtRNMScrNWWP0De)</b>
+
+- <b>[EDR-Home-Lab-Attack-and-Defense](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
 
 - <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
 
