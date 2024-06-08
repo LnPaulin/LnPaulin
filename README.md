@@ -5,7 +5,7 @@
 
 - <b>[Simulating Cyber Attack and Defense: A Practical EDR Home Lab using Sliver and LimaCharlie](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
 
-- <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
+- <b>[Azure Honeynet & SOC Project: Cyber Attacks in Real Time](https://github.com/LnPaulin/Honeypot)</b>
 
 - <b>[Deploying a Django Project on AWS with AppRunner](https://medium.com/@tchiofonkwa/deploying-a-django-project-on-aws-with-app-runner-and-a-ci-cd-pipeline-174bec24132f)</b>
 
