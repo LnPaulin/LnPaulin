@@ -3,7 +3,7 @@
 
 <h2>🔐💻 Cybersecurity/Cloud:</h2>
 
-- <b>[EDR-Home-Lab-Attack-and-Defense](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
+- <b>[Simulating Cyber Attack and Defense: A Practical EDR Home Lab using Sliver and LimaCharlie](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
 
 - <b>[Creating a Live Honeypot in Azure](https://github.com/LnPaulin/Honeypot)</b>
 
