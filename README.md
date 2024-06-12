@@ -28,6 +28,8 @@
 
 - <b>AWS</b>
   - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/ffe2ab3e-bb54-4e2e-86e7-e46d2128ce5a/public_url)
+  - <b>Microsoft</b>
+  - [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/TchioFonkwaPaulin/74CF0E3EB753415D?sharingId=4B9A763214C9C86B)
 - <b>CompTIA</b>
   - [CompTIA Security+](https://www.credly.com/badges/814a529f-35a0-451a-b9bb-ec27fd94bf7d/public_url)
 - <b>Google</b>
