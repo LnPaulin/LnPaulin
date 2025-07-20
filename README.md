@@ -3,6 +3,8 @@
 
 <h2>🔐💻 Cybersecurity/Cloud:</h2>
 
+- <b>[Black Box Penetration Testing](https://www.youtube.com/watch?v=qGyFN6I6h-c)</b>
+
 - <b>[Simulating Cyber Attack and Defense: A Practical EDR Home Lab using Sliver and LimaCharlie](https://github.com/LnPaulin/EDR-Home-Lab-Attack-and-Defense)</b>
 
 - <b>[Azure Honeynet & SOC Project: Cyber Attacks in Real Time](https://github.com/LnPaulin/Honeypot)</b>
@@ -36,5 +38,7 @@
   - [Google Cybersecurity Certificate](https://www.credly.com/badges/0b86d34d-41ed-4a43-a3fb-c8da8663a033/public_url)
 - <b> (ISC)<sup>2</sup></b>
   - [(ISC)<sup>2</sup> Certified in Cybersecurity](https://www.credly.com/badges/18cce0ac-e303-45aa-beca-11d6917052a2/public_url)
-- 🔭 I’m currently working on eJPT Certification
+- <b>eJPT</b>
+  - [e-Learn Junior Penetration Terster](https://certs.ine.com/11811ce4-624e-4750-8f5a-cb2d6786f1aa#acc.pPj1mzxE)
+- 🔭 I’m currently working on HTB CPTS
 
