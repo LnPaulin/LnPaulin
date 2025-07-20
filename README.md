@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tchio! <br/><a  href="https://www.linkedin.com/in/tchio-fonkwa-paulin/">Security Analyst & Penetration Tester </a>, Welcome to my showcase
 
 
-<h2>🔐💻 Cybersecurity/Cloud:</h2>
+<h2>🔐💻 Cybersecurity/Cloud/Pentest:</h2>
 
 - <b>[Black Box Penetration Testing](https://www.youtube.com/watch?v=qGyFN6I6h-c)</b>
 
